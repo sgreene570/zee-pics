@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "<a href="https://ko-fi.com/mrzee">Buy me treats!</a>",
+  "footer": "<a href='https://ko-fi.com/mrzee'>Buy me treats!</a>",
   "usage-stats": false
 }
